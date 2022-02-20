@@ -20,7 +20,7 @@ The maximum recorded temperate out of 1517 days of information got as high as 83
 * The overall daily average temperature was only about four degrees higher for the month of June compared to December, indicating that the seasonal temperature variances remain relatively consistent throughout the year.
 * The daily temperature appears to be more variable for the month of December than June given its larger range of recorded minimum and maximum temperatures.
 
+**All temperatures are recorded in Fahrenheit*
+
 ## Summary
 When comparing the yearly temperatures for Oahu using our findings, it would be reasonable to conclude that a surf and ice-cream shop would certainly be able to maintain sound operations throughout the year, without having to make significant seasonal adjustments.  However, it should be noted that comfortable temperatures are only one factor in determining the overall climate in any given area.  Precipitation, severe weather threats, and daylight hours are just a few examples of some other areas that should first be evaluated to help W. Avy make the best decision possible.  We could gather more data and process additional queries to help us give W. Avy our best recommendations, but that will be for another challenge.
-
-**All temperatures are recorded in Fahrenheit*
