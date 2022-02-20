@@ -15,5 +15,8 @@ The maximum recorded temperate out of 1700 days of information was only 85.0 deg
 
 The maximum recorded temperate out of 1517 days of information got as high as 83.0 degrees, with a minimum temperature of only 56.0 degrees.  The overall daily average for December came in at 71.04 degrees.
 
+### Key differences from the results
+* There were 183 more days of data for the month of June; though with over 1500 days of data for both months, this would probably only have minimal to no measurable variances in the results
+* The overall daily average temperature was only about four degrees higher for the month of June compared to December, indicating that the seasonal temperature variances remain relatively consistent throughtout the year.
 
 **All temperatures are recorded in Fahrenheit*
